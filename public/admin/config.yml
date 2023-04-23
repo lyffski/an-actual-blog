@@ -17,5 +17,5 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Publish Date", name: "publishDate", widget: "datetime"}
-      - {label: "Hero Image", name: "heroImage", widget: "image"}
+      - {label: "Hero Imagett", name: "heroImage", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
