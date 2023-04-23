@@ -1,23 +1,29 @@
 ---
-export interface Props {
-	date: string;
-}
-
 const pubDate = Astro.props.date
 	
-
-function formatDate(pubDate:any) {
-  if(pubDate === undefined) return;
+function formatDate(pubDate:any):string {
+  if(pubDate === undefined) return "";
   const dateParts = pubDate.split('.');
+  const day = dateParts[0];
+  const month = dateParts[1];
+  const year = dateParts[2].slice(-2);
+  return `${day}/${month}/${year}`;
+}
+
+const x = formatDate(pubDate)
+
+/*function formatDate(pubDate:any) {
+  if(pubDate === undefined) return;
+    const dateParts = pubDate.split('.');
   const day = dateParts[0];
   const month = new Intl.DateTimeFormat('en-US', { month: 'short' }).format(new Date(dateParts[2], dateParts[1] - 1, dateParts[0]));
   const year = dateParts[2];
-  return `${day}, ${month} ${year} `;
-}
+  return `${day}/${month}/${year} `;
+} */
 ---
 
 <div >
 	{
-		formatDate(pubDate)
+		x
 	}
 </div>

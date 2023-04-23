@@ -1,13 +1,14 @@
 ---
 import Layout from '../layouts/BlogPost.astro';
+
+const a = "../../assets/placeholder-about.jpg"
 ---
 
 <Layout
-	layout="../../layouts/"
 	title="About Me"
 	description="Lorem ipsum dolor sit amet"
 	pubDate={"23.04.2023"}
-	heroImage="../../assets/placeholder-about.jpg"
+	heroImage={"/placeholder-about.jpg"}
 >
 	<p>
 		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
