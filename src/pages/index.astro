@@ -1,68 +1,73 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
-import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 ---
 
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-	</head>
-	<body>
-		<Header title={SITE_TITLE} />
-		<main>
-			<h1>Hellow</h1>
-			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This
-				template serves as a lightweight, minimally-styled starting point for anyone looking to build
-				a personal website, blog, or portfolio with Astro.
-			</p>
-			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/pages/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
-			</ul>
-			<p>
-				Have fun! If you get stuck, remember to <a href="https://docs.astro.build/"
-					>read the docs
-				</a> or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
-			</p>
-			<p>
-				Looking for a blog template with a bit more personality? Check out <a
-					href="https://github.com/Charca/astro-blog-template"
-					>astro-blog-template
-				</a> by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
-			</p>
-		</main>
-		<Footer />
-		<script>
-			declare global {
-				interface Window {
-					netlifyIdentity: any;
-				}
-			}
+  <head>
+    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"
+    ></script>
+  </head>
+  <body>
+    <Header title={SITE_TITLE} />
+	<hr>
+    <main>
+      <h1>Ahww, Hello. How are you?</h1>
+      <p>
+        Hello and welcome to my web page! As a full-stack developer with a
+        passion for mathematics and ethical philosophy, I am excited to share my
+        knowledge and experience with you.
+      </p>
+      With a strong foundation in web development and programming, I have developed
+      and deployed numerous applications across various industries. Whether it's
+      building robust back-end systems or creating beautiful and responsive front-end
+      designs, I am committed to delivering high-quality solutions that exceed expectations.
 
-			if (window.netlifyIdentity) {
-			  window.netlifyIdentity.on("init", ((user: any) => {
-				if (!user) {
-				  window.netlifyIdentity.on("login", () => {
-					document.location.href = "/admin/";
-				  });
-				}
-			  }));
-			}
-		  </script>
-	</body>
+      <p>
+        But it's not just about the technical aspects of development - I also
+        believe in using technology for good. My love for ethical philosophy has
+        led me to explore how technology can be used to create positive social
+        impact. By combining my technical skills with my passion for social
+        responsibility, I am dedicated to creating solutions that benefit
+        society and the environment.
+      </p>
+      <p>
+        In addition to my technical expertise, I am also deeply passionate about
+        mathematics. From numerical analysis to abstract algebra, I love
+        exploring the beauty and elegance of mathematical concepts. I believe
+        that a strong understanding of mathematics is essential for any
+        developer, and I strive to incorporate mathematical thinking into all
+        aspects of my work.
+      </p>
+      <p>
+        So, whether you're looking to build a new web application or just want
+        to learn more about the intersection of technology and philosophy, I'm
+        here to help. Thank you for visiting my page, and I look forward to
+        connecting with you!
+      </p>
+    </main>
+	<hr>
+    <Footer />
+    <script>
+      declare global {
+        interface Window {
+          netlifyIdentity: any;
+        }
+      }
+
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", (user: any) => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+  </body>
 </html>

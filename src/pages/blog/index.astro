@@ -26,44 +26,57 @@ const posts = (await getCollection('blog')) // from the newest
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 		<style>
 			ul {
-				list-style-type: none;
 				padding: unset;
 			}
-			ul li {
+			ul div {
 				display: flex;
+				gap: 1rem;
 			}
-			ul li :global(time) {
+			ul div :global(time) {
 				flex: 0 0 130px;
 				font-style: italic;
 				color: #595959;
+				
 			}
-			ul li a:visited {
+			ul div a:visited {
 				color: #8e32dc;
 			}
 			.dates {
 				flex: 0 0 130px;
 				font-style: italic;
 				color: #595959;
+				
+			}
+			span{
+				display: block;
+				margin-top: 0.5rem;
+				margin-bottom: 1rem;
+				margin-left: 1rem;
+				padding-left: 0.5rem;
+				border-left: #4aa5e6 2px solid;
 			}
 		</style>
 	</head>
 	<body>
 		<Header />
+		<hr>
 		<main>
 			<section>
 				<ul>
 					{
 						posts.map((post) => (
-							<li>
-								<FormattedDate date={post.data.pubDate} />
-								<a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+							<div>
+								<FormattedDate class="dates" date={post.data.pubDate} />
 								 
-							</li>
+								<a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+							</div>
+							<span>{post.data.description}</span>
 						))
 					}
 				</ul>
 			</section>
 		</main>
+		<hr>
 		<Footer />
 	</body>
 </html>
