@@ -6,7 +6,18 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
 import { getCollection } from 'astro:content';
 import FormattedDate from '../../components/FormattedDate.astro';
 
-const posts = (await getCollection('blog'));
+
+function reverseDate(dateStr:string) {
+  const stripped = dateStr.replace(/\./g, "");
+  const num = Number(stripped);
+  const reversed = num.toString().split("").reverse().join("");
+  const val = Number(reversed)
+  return val;
+}
+
+const posts = (await getCollection('blog')) // from the newest
+
+
 ---
 
 <!DOCTYPE html>
