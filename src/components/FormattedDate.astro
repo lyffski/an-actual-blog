@@ -3,11 +3,21 @@ export interface Props {
 	date: string;
 }
 
-const { date } = Astro.props;
+const pubDate = Astro.props.date
+	
+
+function formatDate(pubDate:any) {
+  if(pubDate === undefined) return;
+  const dateParts = pubDate.split('.');
+  const day = dateParts[0];
+  const month = new Intl.DateTimeFormat('en-US', { month: 'short' }).format(new Date(dateParts[2], dateParts[1] - 1, dateParts[0]));
+  const year = dateParts[2];
+  return `${day}, ${month} ${year} `;
+}
 ---
 
-<time datetime={date}>
+<div >
 	{
-		{date}
+		formatDate(pubDate)
 	}
-</time>
+</div>
