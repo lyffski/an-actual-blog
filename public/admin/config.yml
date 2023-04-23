@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: lyffski/an-actual-blog # Path to your Github repository
   branch: main # Branch to update (master by default)
 
