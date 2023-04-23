@@ -1,5 +1,5 @@
 
-      bconfig: {
+  config: {
   // Use Netlify’s “Git Gateway” authentication and target our default branch
   backend: {
     name: 'git-gateway',
