@@ -20,3 +20,4 @@ collections:
       - {label: "Hero Image", name: "heroImage", widget: "image"}
       - {label: "Publish Date", name: "pubDate", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {lable: "Cath", name: "cat", widget: "string"}

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: "Islam in India: A Journey of Coexistence and Conflict"
-description: "People are naturally inclined to believe, and it is encoded in our genetics that we are either deeply religious or ideological creatures. Every era or age in history has been characterized by either deep religious or ideological faith. Are there really reasons why it should be different now? This article is set in stone to deal with this conundrum."
+description: "Islam is a global religion with followers from different cultures and backgrounds, spanning across continents. This diversity is reflected in the various schools of Islamic thought and interpretation of Islamic teachings. While Indian nationalism is somewhat suspicious because it goes against millennia of Indian history, which taught people to focus on their local castes and spiritual lives, rather than the broader nation."
 heroImage: "https://s01.sgp1.cdn.digitaloceanspaces.com/article/150029-supvjmnfly-1604248576.jpg"
 pubDate: 31.04.2023
 ---

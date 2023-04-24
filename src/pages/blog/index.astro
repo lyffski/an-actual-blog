@@ -18,6 +18,8 @@ function reverseDate(dateStr:string) {
 const posts = (await getCollection('blog')) // from the newest
 
 
+
+
 ---
 
 <!DOCTYPE html>
@@ -55,12 +57,21 @@ const posts = (await getCollection('blog')) // from the newest
 				padding-left: 0.5rem;
 				border-left: #4aa5e6 2px solid;
 			}
+			.cath{
+				text-decoration: none;
+			} > a{
+				text-decoration: none;
+				color: #595959;
+			}
 		</style>
 	</head>
 	<body>
 		<Header />
-		<a>History & Politics |</a>
-		<a>Tech & Math</a>
+		<!-- <div class="cath">
+		<a onclick="sortCath()" class="cath" href="/blog">All |</a>
+		<a class="cath" href="/blog">History and Politics |</a>
+		<a class="cath" href="/blog">Tech and Math</a>
+		</div> -->
 		<main>
 			<section>
 				<ul>
