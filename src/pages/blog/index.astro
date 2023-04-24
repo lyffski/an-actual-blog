@@ -59,8 +59,9 @@ const posts = (await getCollection('blog')) // from the newest
 	</head>
 	<body>
 		<Header />
-	
-		<main><hr>
+		<a>History & Politics |</a>
+		<a>Tech & Math</a>
+		<main>
 			<section>
 				<ul>
 					{
@@ -74,7 +75,7 @@ const posts = (await getCollection('blog')) // from the newest
 						))
 					}
 				</ul>
-			</section><hr>
+			</section>
 		</main>
 		
 		<Footer />

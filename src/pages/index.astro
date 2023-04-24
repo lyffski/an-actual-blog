@@ -13,28 +13,23 @@ import Sidebar from "../components/Sidebar.astro";
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"
     ></script>
     <style>
-      .container {
+      body {
         display: flex;
         flex-direction: row;
-       
+        margin: auto;
       }
-
+     
       
-      body {
-        padding: 20px;
-        max-width: 150ch;
-      }
       main {
-        padding: 10px;
-        max-width: 80%;
+        padding: 0pc
+        max-width: 100%;
       }
       .sidebar {
-        width: 60%;
-        margin-left: auto;
-        padding-left: auto;
-        max-width: 50ch;
-        opacity: 0.9
+        width: 170px;
+        opacity: 0.5
         transition: all 0.5s ease-in-out;
+        margin-left: -170px;
+
       }
       .sidebar:hover{
         transition: all 0.5s ease-in-out;
@@ -43,7 +38,7 @@ import Sidebar from "../components/Sidebar.astro";
       .hide{
         display: none;
       }
-      @media  (max-width: 960px) {
+      @media  (max-width: 1230px) {
   /* Hide the sidebar */
   main {max-width: 100%;}
   .container {
@@ -93,17 +88,17 @@ import Sidebar from "../components/Sidebar.astro";
   </head>
 
   <body>
-    
 
-    <div class="container">
-      
       <div class="sidebar">
         <Sidebar />
       </div>
+
+      
+      
       <div>
         <Header title={SITE_TITLE} />
         <div class="hide">
-          <img width="100px" hight="100px" src="https://images.unsplash.com/photo-1640952131659-49a06dd90ad2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" width="100px"/>
+          <img width="100px" height="100px" src="https://images.unsplash.com/photo-1640952131659-49a06dd90ad2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" width="100px"/>
           <div >
           <p class="nav-min">Kacper P. Sobczak</p>
           <p class="desc-min">Tech enthusiast and Professional Software Developer</p></div>
@@ -165,6 +160,6 @@ import Sidebar from "../components/Sidebar.astro";
           });
         }
       </script>
-    </div>
+    
   </body>
 </html>

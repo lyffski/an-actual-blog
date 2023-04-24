@@ -65,4 +65,5 @@ blockquote {
 	margin: 0px;
 	font-style: italic;
 }
-main{padding: 40px;}
+main{max-width: 70ch;}
+
