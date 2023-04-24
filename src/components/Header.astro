@@ -1,24 +1,35 @@
 ---
-import HeaderLink from './HeaderLink.astro';
-import { SITE_TITLE } from '../consts';
+import HeaderLink from "./HeaderLink.astro";
+import { SITE_TITLE } from "../consts";
 ---
 
+
 <header>
-	<h2>
+  <!-- 	<h2>
 		{SITE_TITLE}
-	</h2>
-	<nav>
-		<HeaderLink href="/">Home</HeaderLink>
-		<HeaderLink href="/blog">Blog</HeaderLink>
-		<HeaderLink href="/about">About</HeaderLink>
-		<HeaderLink href="https://github.com/lyffski" target="_blank">GitHub</HeaderLink>
-	</nav>
+	</h2> -->
+  <nav>
+    <span style="padding-right: 50px; font-size: 20px">Kacper P. Sobczak</span>
+    <HeaderLink href="/">Home</HeaderLink>
+    <HeaderLink href="/blog">Blog</HeaderLink>
+    <HeaderLink href="/about">About</HeaderLink>
+    <HeaderLink href="_blank">Portfolio</HeaderLink>
+    <HeaderLink href="https://github.com/lyffski" target="_blank">
+      GitHub
+    </HeaderLink>
+    <HeaderLink>CV</HeaderLink>
+  </nav>
+  <hr />
 </header>
 <style>
-	header {
-		margin: 0em 0 2em;
-	}
-	h2 {
-		margin: 0.5em 0;
-	}
+  header {
+    margin: 0em 0 2em;
+    margin: 0.5em 0;
+    font-size: 16px;
+    line-height: 20px;
+    padding-bottom: 5px;
+    /* border-bottom: 1px solid #eee; */
+  }
+  @media  (max-width: 670px) {
+  span {display: none}}
 </style>

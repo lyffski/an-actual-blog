@@ -59,24 +59,24 @@ const posts = (await getCollection('blog')) // from the newest
 	</head>
 	<body>
 		<Header />
-		<hr>
-		<main>
+	
+		<main><hr>
 			<section>
 				<ul>
 					{
 						posts.map((post) => (
 							<div>
 								<FormattedDate class="dates" date={post.data.pubDate} />
-								 
+								
 								<a href={`/blog/${post.slug}/`}>{post.data.title}</a>
 							</div>
 							<span>{post.data.description}</span>
 						))
 					}
 				</ul>
-			</section>
+			</section><hr>
 		</main>
-		<hr>
+		
 		<Footer />
 	</body>
 </html>

@@ -3,6 +3,7 @@ import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+import Sidebar from "../components/Sidebar.astro";
 ---
 
 <!DOCTYPE html>
@@ -11,63 +12,159 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"
     ></script>
+    <style>
+      .container {
+        display: flex;
+        flex-direction: row;
+       
+      }
+
+      
+      body {
+        padding: 20px;
+        max-width: 150ch;
+      }
+      main {
+        padding: 10px;
+        max-width: 80%;
+      }
+      .sidebar {
+        width: 60%;
+        margin-left: auto;
+        padding-left: auto;
+        max-width: 50ch;
+        opacity: 0.9
+        transition: all 0.5s ease-in-out;
+      }
+      .sidebar:hover{
+        transition: all 0.5s ease-in-out;
+        opacity: 1;
+      }
+      .hide{
+        display: none;
+      }
+      @media  (max-width: 960px) {
+  /* Hide the sidebar */
+  main {max-width: 100%;}
+  .container {
+   
+    display: flex;
+    flex-direction: column;
+  }
+  .sidebar {
+    display: none;
+  }
+  .hide{
+    display: flex;
+  }
+
+  
+  hide {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+  }
+  img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  h1 {padding-top: 0px;
+  margin-top: 0px;
+  margin-bottom: 10px;}
+  main {
+    padding: 0px;
+  }
+}
+.nav-min {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+.desc-min{ color: rgb(73, 78, 82);
+    font-size: 12px;
+    padding: 0px;
+    margin: 0px;
+}
+    </style>
   </head>
+
   <body>
-    <Header title={SITE_TITLE} />
-	<hr>
-    <main>
-      <h1>Ahww, Hello. How are you?</h1>
-      <p>
-        Hello and welcome to my web page! As a full-stack developer with a
-        passion for mathematics and ethical philosophy, I am excited to share my
-        knowledge and experience with you.
-      </p>
-      With a strong foundation in web development and programming, I have developed
-      and deployed numerous applications across various industries. Whether it's
-      building robust back-end systems or creating beautiful and responsive front-end
-      designs, I am committed to delivering high-quality solutions that exceed expectations.
+    
 
-      <p>
-        But it's not just about the technical aspects of development - I also
-        believe in using technology for good. My love for ethical philosophy has
-        led me to explore how technology can be used to create positive social
-        impact. By combining my technical skills with my passion for social
-        responsibility, I am dedicated to creating solutions that benefit
-        society and the environment.
-      </p>
-      <p>
-        In addition to my technical expertise, I am also deeply passionate about
-        mathematics. From numerical analysis to abstract algebra, I love
-        exploring the beauty and elegance of mathematical concepts. I believe
-        that a strong understanding of mathematics is essential for any
-        developer, and I strive to incorporate mathematical thinking into all
-        aspects of my work.
-      </p>
-      <p>
-        So, whether you're looking to build a new web application or just want
-        to learn more about the intersection of technology and philosophy, I'm
-        here to help. Thank you for visiting my page, and I look forward to
-        connecting with you!
-      </p>
-    </main>
-	<hr>
-    <Footer />
-    <script>
-      declare global {
-        interface Window {
-          netlifyIdentity: any;
-        }
-      }
-
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", (user: any) => {
-          if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
+    <div class="container">
+      
+      <div class="sidebar">
+        <Sidebar />
+      </div>
+      <div>
+        <Header title={SITE_TITLE} />
+        <div class="hide">
+          <img width="100px" hight="100px" src="https://images.unsplash.com/photo-1640952131659-49a06dd90ad2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" width="100px"/>
+          <div >
+          <p class="nav-min">Kacper P. Sobczak</p>
+          <p class="desc-min">Tech enthusiast and Professional Software Developer</p></div>
+        </div>
+        <main>
+          <h1>Ahww, Hello. How are you?</h1>
+          <p>
+            Hello and welcome to my web page! As a full-stack developer with a
+            passion for mathematics and ethical philosophy, I am excited to
+            share my knowledge and experience with you.
+          </p>
+          <p>
+          With a strong foundation in web development and programming, I have developed
+          and deployed numerous applications across various industries. Whether it's
+          building robust back-end systems or creating beautiful and responsive front-end
+          designs, I am committed to delivering high-quality solutions that exceed
+          expectations.
+        </p>
+          <p>
+            But it's not just about the technical aspects of development - I
+            also believe in using technology for good. My love for ethical
+            philosophy has led me to explore how technology can be used to
+            create positive social impact. By combining my technical skills with
+            my passion for social responsibility, I am dedicated to creating
+            solutions that benefit society and the environment.
+          </p>
+          <p>
+            In addition to my technical expertise, I am also deeply passionate
+            about mathematics. From numerical analysis to abstract algebra, I
+            love exploring the beauty and elegance of mathematical concepts. I
+            believe that a strong understanding of mathematics is essential for
+            any developer, and I strive to incorporate mathematical thinking
+            into all aspects of my work.
+          </p>
+          <p>
+            So, whether you're looking to build a new web application or just
+            want to learn more about the intersection of technology and
+            philosophy, I'm here to help. Thank you for visiting my page, and I
+            look forward to working with you!
+          </p>
+        </main>
+     
+        <Footer />
+      </div>
+      <script>
+        declare global {
+          interface Window {
+            netlifyIdentity: any;
           }
-        });
-      }
-    </script>
+        }
+
+        if (window.netlifyIdentity) {
+          window.netlifyIdentity.on("init", (user: any) => {
+            if (!user) {
+              window.netlifyIdentity.on("login", () => {
+                document.location.href = "/admin/";
+              });
+            }
+          });
+        }
+      </script>
+    </div>
   </body>
 </html>
