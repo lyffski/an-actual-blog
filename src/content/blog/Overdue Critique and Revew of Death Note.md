@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "An Overdue Critique and Review of Death Note"
 description: "Death Note is a story about the consequences of an idealist's flawed view of justice. Light Yagami, who takes on the role of Kira, brings about his own downfall because he cannot understand that others see him as wrong. The series explores themes of cosmic nihilism, the desire for a savior, and the human pursuit of a better world. Despite its imperfections, Death Note powerfully dismantles the ideals it initially presents and emphasizes the importance of life in a world without clear-cut justice."
 heroImage: "https://www.wallpaperflare.com/static/409/877/285/death-note-yagami-light-ryuk-anime-wallpaper.jpg"
-pubDate: 11.05.2023
+pubDate: 28.04.2023
 
 ---
 Most people I know have seen Death Note, but surprisingly, not many are aware of its true essence. Despite the original manga running for only two and a half years in Weekly Shonen Jump, the series has made a significant impact since its debut in 2003. With over 30 million copies sold across just three volumes, Death Note has spawned a highly popular anime adaptation, four live-action films (two of which feature entirely original content), a J-drama (Japanese television drama), multiple video games, stage plays, musicals, and even an American remake by Netflix.

@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "The New Prospect of Idealogy"
 description: "People are naturally inclined to believe, and it is encoded in our genetics that we are either deeply religious or ideological creatures. Every era or age in history has been characterized by either deep religious or ideological faith. Are there really reasons why it should be different now? This article is set in stone to deal with this conundrum."
 heroImage: "https://images.pexels.com/photos/2354073/pexels-photo-2354073.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-pubDate: 24.04.2023
+pubDate: 16.04.2023
 ---
 The modern world, compared to all other epochs in history, is laughably rich, yet people are deeply unhappy, lacking human contact and friends. Many feel isolated and alone, while others are cynical about their lives and feel that they are meaningless or simply fear death. In my opinion, this is largely because there is no coherent ideology or religion that makes life worth living or motivates through its goals and requirements, providing a community or shared purpose. To combat this, people try to find meaning in things like politics or pop culture, which often lead to frightening and depressing results. However, in my view, this is only an ad-hoc solution to a long-term and damaging problem in our society. Humans are naturally believing creatures, and it is ingrained in our genetics that we are either deeply religious or ideological. Each era or age in history was characterized by either deep religious or ideological beliefs.
 

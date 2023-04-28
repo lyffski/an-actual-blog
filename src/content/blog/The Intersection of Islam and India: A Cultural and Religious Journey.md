@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Islam in India: A Journey of Coexistence and Conflict"
 description: "Islam is a global religion with followers from different cultures and backgrounds, spanning across continents. This diversity is reflected in the various schools of Islamic thought and interpretation of Islamic teachings. While Indian nationalism is somewhat suspicious because it goes against millennia of Indian history, which taught people to focus on their local castes and spiritual lives, rather than the broader nation."
 heroImage: "https://s01.sgp1.cdn.digitaloceanspaces.com/article/150029-supvjmnfly-1604248576.jpg"
-pubDate: 31.04.2023
+pubDate: 326.04.2023
 ---
 # India
 You can trace much of modern India back to a profound inferiority complex towards the British. Many young people may dismiss this as ancient history, but it\`s important to remember that there are still living individuals who experienced British rule in India. The fact that India was controlled by the British for centuries, with the Indians outnumbering the British more than a hundred to one, and ruling India without significant resistance, is deeply humiliating. Meanwhile, the British, in many ways, exploited India, but also showcased a higher level of technology and development that the Indians desperately tried to imitate. This has made many Indians furious and insecure.

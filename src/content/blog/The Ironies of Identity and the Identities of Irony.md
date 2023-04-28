@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "The Ironies of Identity and the Identities of Irony: Tale of EU & US"
 description: "Western Europe free rides off American defense, will imbibe American culture while enviously hating America. Europe's main ideology has been that of comfort: comfort for their own populations with nice welfare systems, comfort from the dangers of international politics the Americans can handle, and comfort trying to ask difficult questions about what Europe means anymore. The Question remains, for how long the european complancent may last? This article confronts this question head-on."
 heroImage: "https://images.unsplash.com/photo-1571987937324-e91fd2d7e69a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-pubDate: 27.04.2023
+pubDate: 24.04.2023
 ---
 # European Union
 Europe has experienced a profound crisis of identity since the World Wars. All the pillars of the West that were used to justify its own superiority, for better or worse, including Christianity, white supremacy, Western civilization, and capitalism, have been torn down to a certain degree. Europe\`s highly individualistic nature has resulted in a plethora of pseudo-religions filling the void created by the decline of Christianity. Some of them take up the ritual and communal aspects, like fan communities, romantic or wellness culture. Others take a philosophical route, like communism, social justice, or Nazism, and others like neoliberalism have tried to make as much money as possible to fill the moral void.
