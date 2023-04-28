@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: "The Ironies of Identity and the Identities of Irony: Tale of EU & US"
-description: "Western Europe free rides off American defense, will imbibe American culture while enviously hating America. Europe's main ideology has been that of comfort: comfort for their own populations with nice welfare systems, comfort from the dangers of international politics the Americans can handle, and comfort trying to ask difficult questions about what Europe means anymore. The Question remains, for how long the european complancent may last? This article confronts this question head-on."
+description: "Western Europe enjoys a free ride on American defense, imbibes American culture, and yet often harbors envy and resentment towards America. The dominant ideology in Europe has been one of comfort: providing comfort to their own populations with generous welfare systems, seeking comfort from the dangers of international politics that Americans can handle, and avoiding uncomfortable questions about what Europe means today. The question remains: how long can European complacency last? This article confronts this question head-on."
 heroImage: "https://images.unsplash.com/photo-1571987937324-e91fd2d7e69a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
 pubDate: 24.04.2023
 ---
