@@ -15,8 +15,7 @@ function reverseDate(dateStr:string) {
   return val;
 }
 
-const posts = (await getCollection('blog')) // from the newest
-
+const posts = (await getCollection('blog')).reverse() // from the newest
 
 
 
