@@ -4,8 +4,9 @@ title: "An Overdue Critique and Review of Death Note"
 description: "Death Note is a story about the consequences of an idealist's flawed view of justice. Light Yagami, who takes on the role of Kira, brings about his own downfall because he cannot understand that others see him as wrong. The series explores themes of cosmic nihilism, the desire for a savior, and the human pursuit of a better world. Despite its imperfections, Death Note powerfully dismantles the ideals it initially presents and emphasizes the importance of life in a world without clear-cut justice."
 heroImage: "https://www.wallpaperflare.com/static/409/877/285/death-note-yagami-light-ryuk-anime-wallpaper.jpg"
 pubDate: 28.04.2023
-
 ---
+
+
 Most people I know have seen Death Note, but surprisingly, not many are aware of its true essence. Despite the original manga running for only two and a half years in Weekly Shonen Jump, the series has made a significant impact since its debut in 2003. With over 30 million copies sold across just three volumes, Death Note has spawned a highly popular anime adaptation, four live-action films (two of which feature entirely original content), a J-drama (Japanese television drama), multiple video games, stage plays, musicals, and even an American remake by Netflix.
 
 Critically, Death Note remains one of the most highly acclaimed and frequently discussed manga to this day, although its notoriety has waned in Japan, where it didn't even rank in the top 100 when TVSI surveyed readers in late 2020. It's hard not to describe Death Note as monolithic, considering its distinct identity compared to other popular series like Dragon Ball and One Piece, which typically exist within Jump's (is Weekly Shōnen Jump is a weekly shōnen manga anthology published in Japan by Shueisha under the Jump line of magazines. The manga series within the magazine consist of many action scenes and a fair amount of comedy) collective branded canon. The mere mention of a deadly notebook instantly brings the franchise to mind, with countless parodies, homages, and even real-life crimes inspired by the series.
