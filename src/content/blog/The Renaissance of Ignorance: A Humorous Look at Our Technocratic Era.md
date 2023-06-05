@@ -84,22 +84,22 @@ History teaches us that despite great challenges, we still have the ability to f
 
 # Sources
 
-* "The Shallows: What the Internet Is Doing to Our Brains" by Nicholas Carr - Discusses the impact of the internet on our attention span and cognition.
+* The Shallows: What the Internet Is Doing to Our Brains" by Nicholas Carr - Discusses the impact of the internet on our attention span and cognition.
 
-* "Emotional Intelligence: Why It Can Matter More Than IQ" by Daniel Goleman - Explores the importance of emotional intelligence in our society.
+* Emotional Intelligence: Why It Can Matter More Than IQ" by Daniel Goleman - Explores the importance of emotional intelligence in our society.
 
-* "1984" by George Orwell - A classic dystopian novel which sheds light on the dangers of totalitarian regimes and information control.
+* 1984" by George Orwell - A classic dystopian novel which sheds light on the dangers of totalitarian regimes and information control.
 
-* "The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power" by Shoshana Zuboff - Discusses the challenges and implications of data privacy, digital rights, and surveillance.
+* The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power" by Shoshana Zuboff - Discusses the challenges and implications of data privacy, digital rights, and surveillance.
 
-* "Manufacturing Consent: The Political Economy of the Mass Media" by Edward S. Herman and Noam Chomsky - Examines mass media and its role in shaping public opinion.
+* Manufacturing Consent: The Political Economy of the Mass Media" by Edward S. Herman and Noam Chomsky - Examines mass media and its role in shaping public opinion.
 
-* "The Filter Bubble: What the Internet Is Hiding from You" by Eli Pariser - Covers the topic of information manipulation on the internet.
+* The Filter Bubble: What the Internet Is Hiding from You" by Eli Pariser - Covers the topic of information manipulation on the internet.
 
-* "The Distracted Mind: Ancient Brains in a High-Tech World" by Adam Gazzaley and Larry D. Rosen - Talks about the impact of digital media on our attention and cognitive control.
+* The Distracted Mind: Ancient Brains in a High-Tech World" by Adam Gazzaley and Larry D. Rosen - Talks about the impact of digital media on our attention and cognitive control.
 
-* "World Order" by Henry Kissinger - Provides insights into international politics and the geopolitical landscape.
+* World Order: by Henry Kissinger - Provides insights into international politics and the geopolitical landscape.
 
-* "The Future of Power" by Joseph S. Nye Jr. - Discusses the changing dynamics of power in the global stage.
+* The Future of Power: by Joseph S. Nye Jr. - Discusses the changing dynamics of power in the global stage.
 
-* "Lifelong Learning in the Global Knowledge Economy: Challenges for Developing Countries" by the World Bank - An analysis of the importance of education and lifelong learning in the context of the global knowledge economy.
+* Lifelong Learning in the Global Knowledge Economy: Challenges for Developing Countries" by the World Bank - An analysis of the importance of education and lifelong learning in the context of the global knowledge economy.
