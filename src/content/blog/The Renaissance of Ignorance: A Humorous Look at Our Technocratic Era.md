@@ -81,3 +81,25 @@ To counteract mass manipulation and narrative control, we can refer to the princ
 Finally, with increasing geopolitical tensions in mind, we could learn from the lessons of the first Cold War. Despite the division into two blocs, there were efforts at diplomacy and cooperation, as the founding of the United Nations shows. In an increasingly polarized world, we must, therefore, advocate for dialogue, cooperation, and multilateral solutions.
 
 History teaches us that despite great challenges, we still have the ability to find solutions and effect positive change. It is up to us to put these lessons into practice and shape a better future.
+
+# Sources
+
+* "The Shallows: What the Internet Is Doing to Our Brains" by Nicholas Carr - Discusses the impact of the internet on our attention span and cognition.
+
+* "Emotional Intelligence: Why It Can Matter More Than IQ" by Daniel Goleman - Explores the importance of emotional intelligence in our society.
+
+* "1984" by George Orwell - A classic dystopian novel which sheds light on the dangers of totalitarian regimes and information control.
+
+* "The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power" by Shoshana Zuboff - Discusses the challenges and implications of data privacy, digital rights, and surveillance.
+
+* "Manufacturing Consent: The Political Economy of the Mass Media" by Edward S. Herman and Noam Chomsky - Examines mass media and its role in shaping public opinion.
+
+* "The Filter Bubble: What the Internet Is Hiding from You" by Eli Pariser - Covers the topic of information manipulation on the internet.
+
+* "The Distracted Mind: Ancient Brains in a High-Tech World" by Adam Gazzaley and Larry D. Rosen - Talks about the impact of digital media on our attention and cognitive control.
+
+* "World Order" by Henry Kissinger - Provides insights into international politics and the geopolitical landscape.
+
+* "The Future of Power" by Joseph S. Nye Jr. - Discusses the changing dynamics of power in the global stage.
+
+* "Lifelong Learning in the Global Knowledge Economy: Challenges for Developing Countries" by the World Bank - An analysis of the importance of education and lifelong learning in the context of the global knowledge economy.
