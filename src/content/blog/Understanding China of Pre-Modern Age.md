@@ -65,3 +65,7 @@ In short, if the last foreign invasion killed a couple million people, it\`ll en
 It is important to acknowledge that China\`s history is incredibly complex, and there is no single factor that can explain its rise and fall. However, understanding the interplay between cosmopolitanism and isolationism, as well as the influence of the bureaucrats and Confucianism, can help us gain a better understanding of the forces that have shaped China\`s past and continue to shape its future.
 
 As China emerges as a global superpower in the 21st century, it remains to be seen whether it will learn from its past and adopt a more balanced approach to governance and international engagement. In a rapidly changing world, the lessons of history can provide valuable insights as we navigate the challenges and opportunities that lie ahead.
+
+# Sources
+
+* https://i.ytimg.com/vi/Fz_uQNQBK0g/maxresdefault.jpg

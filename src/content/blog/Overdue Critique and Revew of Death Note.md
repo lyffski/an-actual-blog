@@ -94,3 +94,7 @@ Matsuda doesn't have a tragic backstory or complex motivations like some charact
 In the manga's epilogue, one year after Light's death, the world has reverted to its previous state. Matsuda, still emotionally scarred, discusses his theories about Near and his desire to believe in Light despite his crimes. Aide reassures Matsuda that they were right because they are alive, emphasizing that life still exists in a world without justice.
 
 "Death Note," though imperfect, powerfully dismantles the ideals it once presented, proving the futility in trying to understand the conflict as simply wanting something inside oneself to be true. The desire for a savior or someone to right the world's wrongs can be disturbing and delusional, but it is also human. Life continues, and so does the pursuit of a better world, even if it may never be achieved.
+
+# Sources
+
+* https://www.wallpaperflare.com/static/409/877/285/death-note-yagami-light-ryuk-anime-wallpaper.jpg
