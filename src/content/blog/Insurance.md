@@ -83,7 +83,7 @@ As business thrived over time, this coffee shop evolved into what we now recogni
 
 Over time, the insurance industry has adapted and transformed to cater to the evolving standards of modern markets. This has led to a diversification in the types of insurance products available today, including but not limited to, travel, marine, personal accident, and motor car insurance. These developments can be traced back to the humble origins of insurance, thereby demonstrating the remarkable journey of this risk management tool.
 
-# But who does it all pertain to me in Uni?
+# But who does it all pertain to me?
 The concept of insurance has evolved significantly since its earliest iterations in antiquity. Its relevance has continued to grow in the present day, and now, more than ever, it plays a crucial role in ensuring the financial security and stability of individuals, especially for specific groups such as students. In particular, the "Berufsunfähigkeit" insurance for students, or Disability Insurance, is of immense importance in the 21st century. 
 
 In an increasingly competitive and complex world, education has become paramount. Many students invest substantial time, effort, and financial resources in their studies to secure a prosperous future. However, life's unpredictability can introduce a variety of risks, including the risk of becoming unable to work due to an unforeseen disability. This is where Berufsunfähigkeit insurance steps in, providing a financial safety net in such circumstances.
