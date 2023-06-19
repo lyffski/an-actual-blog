@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "How Pirates, Babylonian Kings, and Coffee Shops Made Your Insurance a Reality: A Journey Through the Unlikely History of Risk Management"
 description: "Embark on a historical adventure, tracing the path of insurance from King Hammurabi's reign in Mesopotamia to modern student disability insurance. Pirates, mathematicians, and a popular coffee shop all played key roles in this unlikely narrative. Discover the significance of risk management, and learn why disability insurance is crucial for students today in this journey through time."
-heroImage: "https://images.unsplash.com/photo-1553484771-4e29a68540f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=963&q=80"
+heroImage: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
 pubDate: 22.06.2023
 ---
 Insurance is a financial product, often regarded as a necessary, albeit sometimes vexing, obligation. It is designed to protect us from substantial financial liabilities in case of unfortunate events such as property damage or personal injury. The key purpose of insurance is to offer peace of mind, as it transfers the cost of potential losses to an insurance company.
@@ -93,3 +93,17 @@ Moreover, in our information-driven age, cognitive abilities often serve as the 
 Furthermore, students are usually at the inception of their earning years, with many of them carrying the burden of student loans. A sudden disability could not only halt their income but also impede their ability to service their debt. In such a scenario, disability insurance can provide the necessary financial assistance to manage these obligations, thereby mitigating the financial distress that could otherwise ensue.
 
 In conclusion, given the uncertainties and potential hardships life can present, especially in the evolving landscape of the 21st century, disability insurance for students is of utmost importance. As we have traced the journey of insurance from the ancient civilizations of Mesopotamia, through the pivotal contributions of Pascal and the emergence of modern insurance at Lloyd's Coffee Shop, we are reminded that the fundamental principle remains unchanged: insurance is about managing risk. For students, who stand at the precipice of their professional lives, managing the risk of disability is not just a choice; it's an essential safeguard for YOUR future.
+
+# Sources
+
+* "Against the Gods: The Remarkable Story of Risk" by Peter L. Bernstein
+This book provides an excellent historical perspective on the concept of risk, including the development of probability theory by Pascal and Fermat, which was crucial to the evolution of insurance.
+
+* "Insurance: From Underwriting to Derivatives: Asset Liability Management in Insurance Companies" by Eric Briys and François de Varenne
+This book offers an insightful look into the complex world of insurance, including the role of underwriters and the development of various insurance products.
+
+* "Insurance in the General Agreement on Trade in Services" by Bart De Meester
+This book touches on the role of insurance in international trade, which includes a discussion of marine insurance.
+
+* "Risk and Insurance in Construction" by Nael G. Bunni
+While primarily focused on the construction industry, this book offers insights into modern insurance practices and the role of insurance in managing risk, which could apply to student disability insurance as well.
